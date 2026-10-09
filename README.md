@@ -13,3 +13,5 @@ No quiero faltarle el respeto a ninguna organización he individuo. Es estresant
 Hola Familia; Bendiciones!
 
 No entiendo porque me sigue pidiendo la contraseña
+
+Le pedí ayuda a Gemini, esta es la prueba a ver si funciona
